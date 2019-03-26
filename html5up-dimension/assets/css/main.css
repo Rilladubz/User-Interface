@@ -109,6 +109,10 @@ input, select, textarea {
 			transition: none !important;
 		}
 
+	.Sprint-01 {
+		resize: 80%;
+	}
+
 /* Type */
 
 	html {
